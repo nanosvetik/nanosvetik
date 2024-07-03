@@ -66,7 +66,8 @@
 - 🔧 DevTools
 - 🛡️ Charles Proxy
 - 🗄️ SQL
-- 💻 Basic programming: Java, JavaScript, Python
+- 💻 Basic knowledge: Java, JavaScript
+- 🐍 Python programming
 - 🔍 Prompt Engineering
 - 🧠 Chat GPT fine-tuning on custom datasets
 - 🤖 Creating neural assistants
