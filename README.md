@@ -3,8 +3,10 @@
 
 ## Contact Information
 - **Name:** Svetlana Flegontova
+- **Phone:** +7 977 882 0394
 - **Email:** svetlanaflegontova@gmail.com
 - **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Svetlana_F80)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanosvetik)
 
 ## Work Experience
 
@@ -100,6 +102,12 @@
 
 ### Description
 Welcome to my GitHub profile! Here you will find various projects I've worked on, including web development, software testing, and creating neural assistants. Each project includes detailed descriptions, installation and usage instructions, and code.
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanosvetik&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nanosvetik&layout=compact&theme=radical)
 
 ### Repositories
 
