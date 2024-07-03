@@ -103,7 +103,7 @@ Welcome to my GitHub profile! Here you will find various projects I've worked on
 
 ### Repositories
 
-- [📂 Project 1](https://github.com/your_profile/project1): Brief description of project 1
+- [📂 Project 1](https://github.com/your_profile/project1): Landing page on Angular
 - [📂 Project 2](https://github.com/your_profile/project2): Brief description of project 2
 - [📂 Project 3](https://github.com/your_profile/project3): Brief description of project 3
 
